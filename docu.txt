@@ -1,0 +1,61 @@
+Steve Jobs	Walter Issacson	issued
+Discovery of India	Jawaharlal Nehru	issued
+My Experiments with Truth	Mahatma Gandhi	issued
+Object Oriented Programming with C++	E Balagurusamy	issued
+Thinking with type	Ellen Lupton	issued
+The Photographer's	Lindsay Adler	issued
+Think and Grow	Napoleon Hill	issued
+The Fifth Discipline : The Art	Peter M.Senge	issued
+A Theory of Justice	John Rawls	issued
+Eat to Live	Joel Fuhrman	issued
+City of Heavenly Fire	Cassandra Clare	available
+Da Vinci Code	Dan Brown	available
+War and Peace	Leo Tolstoy	issued
+Python For All	John Shovic	available
+Automate The Boring Stuff With Python	Al Sweigart	available
+Wings Of Fire	APJ Abdul Kalam	available
+Ikigai	Hector Garcia	available
+Who Will Cry When You Will Die	Robin Sharma	available
+Rich Dad Poor Dad	Robert T. Kiyosaki	available
+Immortals of Meluha	Amish Tirpathi	available
+A Brief History Of Time	Stephen Hawking	issued
+I Know Why The Cage Bird Sings	Maya Anguelo	available
+Lord Of Files	William Golding	issued
+Loara Dune	R. D Blackmore	issued
+Jamacia Inn	Daphne	issued
+Kidnapped	Robert Louis	available
+Treasure Island	Robert Louis	available
+The Call Of Wild	Jack London	available
+Charlottes Web	E. B White	available
+The Wind In Willows	Kenneth Grahame	available
+Being and Time	Martin Heldegger	available
+The Republic	Rocha Pereia	issued
+Critique For Pure Reason	Paul Guyer	available
+The Prince	Rufus Godwin	available
+Ethics	Stuart Hampshire	available
+Long Walk To Freedom	Nelson Mandela	available
+The Dairy Of Young Girl	Anne Frank	available
+Mark Twain	Mark Twain	available
+Mein Kampf	Adolf Hitler	available
+Freakonomics	Steveb D.Levit	issued
+Thinking Fast and Slow	Daniel Kahneman	available
+Tell You About Capitalism	HA-Joon Chang	available
+Animal Spirits	Akerlof and Shiller	available
+The Black Swan	Nassim Nicholas Taleb	issued
+1984	George Orwell	available
+The Lord Of Wings	J.R.R.Tolken	issued
+Kite Runner	Khaled Hosseini	available
+Harry Potter	J.K.Rowling	available
+The Book Theif	Markus Zusak	available
+History Of 20th Century	Martin Gilbert	available
+Guns,Germs,and Steel	Jared Daimond	issued
+A World lit Only by Fire	William Manchestar	issued
+The Crusades	Thomas Asbridge	available
+Over The Edge Of The World	Laurence	available
+A Beautiful Mind	Sylvia Nasar	available
+The Enigma	Andrew Hodges	available
+Alexander Hamilton	Ron Chernow	available
+Barracoon	Zora Neale Hurston	available
+CHURCHILL : A Life	MArtin Glibert	available
+A Tale of Two Cities	Charles Dickens	issued
+Les Misérables	Victor Hugo	available
